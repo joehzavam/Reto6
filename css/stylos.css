@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section, h1{
+    text-align: center;
+}
+
+h1, #dato, #boton{
+    font-family: sans-serif;
+}
+h1 {
+    margin: 15px;
+}
+main {
+    margin: 40px;
+}
+#dato{
+    padding: 10px;
+    width: 250px;
+}
+#boton {
+    width:120px;
+    background-color: blue;
+    border-radius: 8px;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    
+}
+
